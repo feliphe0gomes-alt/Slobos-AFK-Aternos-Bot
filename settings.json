@@ -13,14 +13,14 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -93.700,
+    "y": 74.00000,
+    "z": -37.585
   },
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "pikudasso345"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm a body girl",
+        "pega no grosso",
+        "I like to play pikacraft!"
       ]
     },
     "chat-log": true,
