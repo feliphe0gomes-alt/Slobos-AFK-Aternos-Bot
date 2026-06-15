@@ -13,8 +13,8 @@
   },
   "position": {
     "enabled": true,
-    "x": -93.700,
-    "y": 74.00000,
+    "x": -93.7,
+    "y": 74.0,
     "z": -37.585
   },
   "utils": {
@@ -38,23 +38,23 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect-delay": 5000,
     "max-reconnect-delay": 120000
   },
   "movement": {
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
-      "speed": 3000
+      "radius": 2,
+      "speed": 1000
     },
     "look-around": {
       "enabled": true,
-      "interval": 5000
+      "interval": 3000
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 7000
     }
   },
   "modules": {
