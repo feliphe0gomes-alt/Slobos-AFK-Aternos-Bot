@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mac100.aternos.me",
-    "port": 50261,
+    "ip": "mac100.exaroton.me",
+    "port": 44260,
     "version": "1.16.1",
     "try-creative": false
   },
